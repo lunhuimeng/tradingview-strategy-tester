@@ -1,0 +1,5 @@
+D:\prj\tradingview-strategy-tester\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\prj\tradingview-strategy-tester\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\prj\tradingview-strategy-tester\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+D:\prj\tradingview-strategy-tester\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\prj\tradingview-strategy-tester\ConsoleApp\obj\Debug\ConsoleApp.pdb
